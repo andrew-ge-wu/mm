@@ -1,0 +1,1 @@
+{"trainingId":"trainer-keras-ran-test-3-cpu-996eaab2","parameters":{"LOSS":"mse","BATCH_SIZE":"320","METRICS":"accuracy","EPOCH":"10","PIPELINE":"my-id-test","EPOCH_STEPS":"12","OPTIMIZER":"adam","TRAINING_DS":"datasource-0a87fdae","VALIDATION_DS":"datasource-ta87fdae"},"date":1516944603029}

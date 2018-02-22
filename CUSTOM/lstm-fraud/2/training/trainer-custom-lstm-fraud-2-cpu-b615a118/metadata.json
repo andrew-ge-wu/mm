@@ -1,0 +1,1 @@
+{"trainingId":"trainer-custom-lstm-fraud-2-cpu-b615a118","parameters":{"EPOCH":"10"},"performance":{"acc":0.9957465277777777,"loss":0.06821395582167358,"mae":0.004281635867018195},"date":1513607485325}
