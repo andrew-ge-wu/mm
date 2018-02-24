@@ -1,0 +1,1 @@
+{"trainingId":"trainer-keras-keras-creditcard-1-cpu-09780d21","parameters":{"PIPELINE":"pipeline-70f976a1","TRAINING_DS":"datasource-ta87fdae","VALIDATION_DS":"datasource-0a87fdae"},"performance":{"acc":0.9957465277777777,"loss":0.06821864392101071,"mae":0.004285693949916304},"date":1517221137914}

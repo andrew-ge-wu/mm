@@ -1,0 +1,1 @@
+{"modelName":"lstm-fraud","modelVersion":"2","modelType":"CUSTOM","entryPoint":"examples/keras_fit_generator_save.py","performanceJson":"performance.json","outputFolder":"output"}

@@ -1,0 +1,1 @@
+{"trainingId":"trainer-keras-Loan Performance LSTM-6-cpu-5a10d593","parameters":{"LOSS":"mse","BATCH_SIZE":"32","METRICS":"accuracy","EPOCH":"10","PIPELINE":"my-id-test","EPOCH_STEPS":"1","OPTIMIZER":"adam","TRAINING_DS":"datasource-0a87fdae","VALIDATION_DS":"datasource-ta87fdae"},"date":1516636588452}
