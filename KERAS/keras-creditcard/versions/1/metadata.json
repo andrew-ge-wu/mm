@@ -1,1 +1,1 @@
-{"id":"1","modelName":"keras-creditcard","checksum":"cpu-96e4e754-09780d21","parameters":{"PIPELINE":"pipeline-70f976a1","TRAINING_DS":"datasource-ta87fdae","VALIDATION_DS":"datasource-0a87fdae"},"date":1519485611355}
+{"id":"1","modelName":"keras-creditcard","checksum":"cpu-96e4e754-09780d21","parameters":{"PIPELINE":"pipeline-70f976a1","TRAINING_DS":"datasource-ta87fdae","VALIDATION_DS":"datasource-0a87fdae"},"performance":{"acc":0.9957465277777777,"loss":0.06824520708537483,"mae":0.004306711716991332},"date":1519485611355}
