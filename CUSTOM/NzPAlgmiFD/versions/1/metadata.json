@@ -1,1 +1,1 @@
-{"id":"1","modelName":"NzPAlgmiFD","checksum":"cpu-621aa32b-eddf9f20","parameters":{},"date":1519944144096}
+{"id":"1","modelName":"NzPAlgmiFD","checksum":"cpu-621aa32b-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.032054666233496065,"mae":0.0031438160279704734},"date":1519944144096}
