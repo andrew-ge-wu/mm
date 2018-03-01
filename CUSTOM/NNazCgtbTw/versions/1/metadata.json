@@ -1,1 +1,1 @@
-{"id":"1","modelName":"NNazCgtbTw","checksum":"cpu-5849cd11-eddf9f20","parameters":{},"date":1519943587593}
+{"id":"1","modelName":"NNazCgtbTw","checksum":"cpu-5849cd11-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.0314866877992314,"mae":0.002636128125919287},"date":1519943587593}
