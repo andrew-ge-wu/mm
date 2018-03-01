@@ -1,1 +1,1 @@
-{"id":"1","modelName":"T9XBC4ICSv","checksum":"cpu-3750396f-eddf9f20","parameters":{},"date":1519945275557}
+{"id":"1","modelName":"T9XBC4ICSv","checksum":"cpu-3750396f-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.03149036677175382,"mae":0.002705541335908191},"date":1519945275557}
