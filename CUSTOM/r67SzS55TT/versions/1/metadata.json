@@ -1,1 +1,1 @@
-{"id":"1","modelName":"r67SzS55TT","checksum":"cpu-96079365-eddf9f20","parameters":{},"date":1519945076331}
+{"id":"1","modelName":"r67SzS55TT","checksum":"cpu-96079365-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.032394742396907206,"mae":0.0033952597116488643},"date":1519945076331}
