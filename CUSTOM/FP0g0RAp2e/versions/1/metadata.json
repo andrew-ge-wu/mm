@@ -1,1 +1,1 @@
-{"id":"1","modelName":"FP0g0RAp2e","checksum":"cpu-d392b141-eddf9f20","parameters":{},"date":1519943771542}
+{"id":"1","modelName":"FP0g0RAp2e","checksum":"cpu-d392b141-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.030785629857268126,"mae":0.0020747333971990484},"date":1519943771542}
