@@ -1,1 +1,1 @@
-{"id":"1","modelName":"hdemGMO3nc","checksum":"cpu-68f5215d-eddf9f20","parameters":{},"date":1519943437298}
+{"id":"1","modelName":"hdemGMO3nc","checksum":"cpu-68f5215d-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.03188238409900287,"mae":0.0029928241752953605},"date":1519943437298}
