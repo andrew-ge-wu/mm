@@ -1,1 +1,1 @@
-{"id":"1","modelName":"SrVhpHVAc5","checksum":"cpu-a34fcc36-eddf9f20","parameters":{},"date":1519942910574}
+{"id":"1","modelName":"SrVhpHVAc5","checksum":"cpu-a34fcc36-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.03155635643992443,"mae":0.0026678219644559755},"date":1519942910574}
