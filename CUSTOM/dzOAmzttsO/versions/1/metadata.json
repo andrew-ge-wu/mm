@@ -1,1 +1,1 @@
-{"id":"1","modelName":"dzOAmzttsO","checksum":"cpu-d1392304-eddf9f20","parameters":{},"date":1519944638597}
+{"id":"1","modelName":"dzOAmzttsO","checksum":"cpu-d1392304-eddf9f20","parameters":{},"performance":{"acc":0.9980902777777778,"loss":0.030749048282639378,"mae":0.0020410420890483593},"date":1519944638597}
