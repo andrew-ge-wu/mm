@@ -1,0 +1,1 @@
+{"trainingId":"trainer-keras-Stacked LSTM-2-cpu-90585f51","parameters":{"LOSS":"mse","BATCH_SIZE":"32","METRICS":"accuracy","EPOCH":"10","PIPELINE":"my-id-test","EPOCH_STEPS":"100","OPTIMIZER":"adam","TRAINING_DS":"datasource-0a87fdae","VALIDATION_DS":"datasource-ta87fdae"},"date":1516376239213}

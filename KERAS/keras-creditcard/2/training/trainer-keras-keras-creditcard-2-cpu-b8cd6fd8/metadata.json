@@ -1,0 +1,1 @@
+{"trainingId":"trainer-keras-keras-creditcard-2-cpu-b8cd6fd8","parameters":{"BATCH_SIZE":"256","EPOCH":"1","PIPELINE":"pipeline-70f976a1","TRAINING_DS":"datasource-0a87fdae","VALIDATION_DS":"datasource-ta87fdae"},"date":1517219745621}
